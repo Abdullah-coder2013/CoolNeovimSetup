@@ -34,7 +34,7 @@ With pacman: ```sudo pacman -S neovim```
 Clone this repository:
 
 Windows: ```git clone https://github.com/Abdullah-coder2013/CoolNeovimSetup.git $HOME/Appdata/Local/nvim```
-Linux: ```git clone https://github.com/Abdullah-coder2013/CoolNeovimSetup.git $HOME/Appdata/Local/nvim```
+Linux: ```git clone https://github.com/Abdullah-coder2013/CoolNeovimSetup.git ~/.config/nvim```
 
 Then, run ```nvim```
 In Neovim run ```:PackerSync``` if the PackerSync menu doesn't appear automatically.
