@@ -17,7 +17,9 @@ This setup is made with these plugins:
 ```telescope```,
 ```toggleterm```,
 ```treesitter```,
-```whichkey```
+```whichkey```,
+```mason```,
+```null-ls```
 
 ## Installation Steps
 
